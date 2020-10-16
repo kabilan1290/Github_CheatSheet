@@ -1,12 +1,12 @@
 # Github_CheatSheet
 
-# Setup:
+# 🔧 Setup:
 
 git config --global user.email "mail"
 
 git config --global user.name "name"
 
-# Commands:
+# ℹ️️ Commands:
 
 git init                       ==> creates a new Git repository
 
@@ -115,4 +115,4 @@ git blame file           ==> shows the revision and author who last modified eac
 
 git cherry-pick          ==> Mege individual commits.
 
-Never presume to know a person based on the one dimensional window of the internet. A soul can’t be defined by critics, enemies or broken ties with family or friends.
+**Never presume to know a person based on the one dimensional window of the internet. A soul can’t be defined by critics, enemies or broken ties with family or friends.**
