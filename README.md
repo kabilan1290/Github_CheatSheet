@@ -76,6 +76,8 @@ git revert               ==> Used to undo a commit so you can return a repositor
 
 git rebase               ==> the process of moving or combining a sequence of commits to a new base commit.
 
+git rebase --interactive ==> We can interactively edit the history.
+
 git pull --rebase        ==> to avoid conflicts when u made some changes in local repo.
 
 git branch test          ==> creates a branch test.
