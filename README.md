@@ -115,4 +115,4 @@ git blame file           ==> shows the revision and author who last modified eac
 
 git cherry-pick          ==> Mege individual commits.
 
-**Made by Kabilan.S❤.Never presume to know a person based on the one dimensional window of the internet. A soul can’t be defined by critics, enemies or broken ties with family or friends.**
+**Never presume to know a person based on the one dimensional window of the internet. A soul can’t be defined by critics, enemies or broken ties with family or friends ❤.**
