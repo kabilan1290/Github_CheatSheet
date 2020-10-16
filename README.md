@@ -8,17 +8,17 @@ git config --global user.name "name"
 
 # ℹ️️ Commands:
 
-*git init                       ==> creates a new Git repository
+git init                       ==> creates a new Git repository
 
-*git status                     ==> List which files are staged, unstaged, and untracked.
+git status                     ==> List which files are staged, unstaged, and untracked.
 
-*git add file                   ==> The git add command is used to add file contents for the next commit.
+git add file                   ==> The git add command is used to add file contents for the next commit.
 
-*git add --all                  ==> The git add command is used to add files content for the next commit.
+git add --all                  ==> The git add command is used to add files content for the next commit.
 
-*git commit -m "commit message" ==> moves files from staging to the repository and records the time/date, author and a commit message that can be used to add additional context.
+git commit -m "commit message" ==> moves files from staging to the repository and records the time/date, author and a commit message that can be used to add additional context.
 
-*.gitignore                     ==> To ignore these files you create a .gitignore file in the root of the repository.
+.gitignore                     ==> To ignore these files you create a .gitignore file in the root of the repository.
 
 ```
 Example:
